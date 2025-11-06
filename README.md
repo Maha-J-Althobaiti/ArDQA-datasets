@@ -40,9 +40,13 @@ root
 ```
 
 
-## License
-Dataset: CC BY-NC-ND 4.0 (research/teaching only, attribution required, no redistributed derivatives).
-https://creativecommons.org/licenses/by-nc-nd/4.0/
+## Availability
+A mirrored copy of ArDQA is hosted on Hugging Face for easy access and loading via `datasets`: [![Hugging Face – ArDQA](https://img.shields.io/badge/Hugging%20Face-ArDQA-blue.svg)](https://huggingface.co/datasets/MahaJar/ArDQA)
+
+
+
+
+
 
 
 
