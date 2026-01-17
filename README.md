@@ -40,8 +40,6 @@ root
 ```
 
 
-## Availability
-##A mirrored copy of ArDQA is hosted on Hugging Face for easy access and loading via `datasets`: [![Hugging Face – ArDQA](https://img.shields.io/badge/Hugging%20Face-ArDQA-blue.svg)](https://huggingface.co/datasets/MahaJar/ArDQA)
 
 
 
